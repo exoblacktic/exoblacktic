@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi! I'm a Web Development Student (DAW) Aplication Web Devlopment.
 
-<!--
-**exoblacktic/exoblacktic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Student in Higher Vocational Training in Web Application Development (DAW)  
+- 💻 I enjoy creating useful and functional web applications  
+- 📚 Learning Python, PHP, MySQL, HTML, and CSS  
+- 🤝 Looking to improve as a developer and collaborate on projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+**Frontend:** HTML, CSS, Python 
+**Backend:** PHP 
+**Databases:** MySQL, SQLite  
+**Other tools:** Git, GitHub 
+
+---
+
+## 📂 Featured Projects
+- 🔧 [Portfolio Website](https://exoblacktic.github.io/portfolio-daw/)  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exoblacktic&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+- 📩 Email: mhatimaarab@gmail.com 
+- 🌐 Portfolio: https://exoblacktic.github.io/portfolio-daw/
