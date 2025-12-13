@@ -38,7 +38,7 @@ I love technology, coding, and building cool projects that challenge my skills.
 
 
 ### 🔹 Python - Weather CLI App
-➡️ (your link here)
+➡️ [👉 Click here](https://github.com/exoblacktic/Weather-cli)
 
 ---
 
