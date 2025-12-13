@@ -34,19 +34,19 @@ I love technology, coding, and building cool projects that challenge my skills.
 ## 📂 Featured Projects
 
 ### 🔹 Portfolio Website  
-➡️ [👉 Click here](https://exoblacktic.github.io/portfolio-daw/)
+➡️ [👉 Click here](https://exo-tic-33.github.io/portfolio-daw/)
 
 
 ### 🔹 Python - Weather CLI App
-➡️ [👉 Click here](https://github.com/exoblacktic/Weather-cli)
+➡️ [👉 Click here](https://github.com/exo-tic-33/Weather-cli)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exoblacktic&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exo-tic-33&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 📩 Email: mhatimaarab@gmail.com   
-🌐 Portfolio: (https://exoblacktic.github.io/portfolio-daw/)
+🌐 Portfolio: (https://exo-tic-33.github.io/portfolio-daw/)
