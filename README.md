@@ -49,4 +49,4 @@ I love technology, coding, and building cool projects that challenge my skills.
 
 ## 📫 Contact
 📩 Email: mhatimaarab@gmail.com   
-🌐 Portfolio: (https://exo-tic-33.github.io/portfolio-daw/)
+🌐 Portfolio: https://exo-tic-33.github.io/portfolio-daw/
