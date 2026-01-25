@@ -37,6 +37,10 @@ I love technology, coding, and building cool projects that challenge my skills.
 ➡️ [👉 Click here](https://exo-tic-33.github.io/portfolio-daw/)
 
 
+### 🔹 Python - Academic-Management
+➡️ [👉 Click here](https://github.com/exo-tic-33/academic-management/blob/main/README.md)
+
+
 ### 🔹 Python - Weather CLI App
 ➡️ [👉 Click here](https://github.com/exo-tic-33/Weather-cli)
 
